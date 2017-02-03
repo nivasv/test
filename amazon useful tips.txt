@@ -1,0 +1,15 @@
+Useful links:
+
+http://howtodoinjava.com/search-sort/when-to-use-comparable-and-comparator-interfaces-in-java/
+https://www.cs.cmu.edu/~pattis/15-1XX/15-200/lectures/collectionsiii/lecture.html
+https://www.mkyong.com/java8/java-8-foreach-examples/
+http://stackoverflow.com/questions/21617098/making-a-java-priorityqueue-into-a-stable-priority-queue
+http://www.javamex.com/tutorials/memory/object_memory_usage.shtml
+http://www2.hawaii.edu/~tp_200/ics111/material/codingStandards.html
+http://tutorials.jenkov.com/java-collections/navigableset.html
+
+Eclipse shortcut:
+
+Alt+Shift+J - generate comments
+Ctrl+Space - Auto complete
+Ctrl+ H - File Search

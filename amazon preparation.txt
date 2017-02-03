@@ -1,0 +1,47 @@
+aggregation 
+objects sorting
+comparing 
+priority queue - quantity based sort 
+time and space complexity for the code written
+arraylist, priority queue
+comparable vs comparator in java
+
+useful links:
+https://www.cs.cmu.edu/~pattis/15-1XX/15-200/lectures/collectionsiii/lecture.html
+https://teamtreehouse.com/community/set-vs-sortedset
+https://www.mkyong.com/java8/java-8-foreach-examples/
+http://stackoverflow.com/questions/21617098/making-a-java-priorityqueue-into-a-stable-priority-queue
+http://tutorials.jenkov.com/java-collections/navigableset.html
+https://www.mkyong.com/java/java-object-sorting-example-comparable-and-comparator/
+http://www.digizol.com/2008/07/java-sorting-comparator-vs-comparable.html
+http://www.javamex.com/tutorials/memory/object_memory_usage.shtml
+http://www2.hawaii.edu/~tp_200/ics111/material/codingStandards.html
+https://www.youtube.com/watch?v=HEjmH9wKiMo
+
+java 8:
+List:
+removeIf()
+replaceAll()
+forEach()
+sort()
+
+Map:
+compute(), computeIfAbsent(), computeifPresent()
+forEach(),
+getOrDefault(),
+merge()
+putIfAbsent()
+replace(), replaceAll()
+remove(key,value)
+
+PriorityQueue:
+forEach()
+parallelStream()
+removeIf()
+stream()
+
+temporary:
+http://www.vogella.com/tutorials/JavaAlgorithmsMergesort/article.html
+https://en.wikipedia.org/wiki/Sorting_algorithm#Stability
+http://www.sanfoundry.com/java-program-implement-heap-sort/
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html
